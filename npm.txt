@@ -1,0 +1,6 @@
+npm install --save-dev babel-loader babel-core babel-preset-es2015 babel-preset-react --save-dev
+npm install webpack --save-dev
+
+React v15.5.0
+React to 15.4.x works for me
+npm install --save react@15.4.0 react-dom@15.4.0
